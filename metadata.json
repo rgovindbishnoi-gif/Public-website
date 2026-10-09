@@ -1,0 +1,6 @@
+{
+  "name": "Billionaire Game",
+  "description": "A game where you spend a billionaire's fortune before time runs out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
